@@ -1,0 +1,18 @@
+{
+  "name": "FastPost ماركێتى كوردى",
+  "short_name": "FastPost",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "بازار کوردى متعدد: چێشتخانه، عومرە، سەيارەکان، ماركیت، إلكترونيك",
+  "lang": "ku",
+  "dir": "auto",
+  "theme_color": "#1976d2",
+  "background_color": "#f1f5f9",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
